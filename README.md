@@ -1,6 +1,3 @@
 # An Analysis of Kickstarter Campaigns
-Analysis of Kickstarter data in order to discover trends in the support of a client starting her own campaign for a musical.
-This analysis discovered:
-1. The time of the year in which most campaigns that are successful launch. ![Outcomes_Based_on_Launch_Date.png](https://github.com/flabbychew/kickstarter-analysis/blob/main/Outcomes%20Based%20on%20Launch%20Date.png?raw=true)
-2. The type of campaigns that are successful in Great Britian. ![Great Britian Category Outcomes](https://github.com/flabbychew/kickstarter-analysis/blob/main/Great%20Britian%20Category%20Outcomes.png?raw=true)
-3. The goals set by campaigns that are more often fufilled. ![Mean Goal vs Pledge](https://github.com/flabbychew/kickstarter-analysis/blob/main/Great%20Britian%20Musicals%20Mean%20Goal%20vs.%20Pledged.png?raw=true)
+The goal of this analysis was to help Louise make an informed decision when creating her own Kickstarter campaign so that it can be as successful as possible.
+I began performing my analysis by creating a pivot table which showed the outcomes of launching a campaign under the theatre category during certain months of the year. Using this pivot chart I made a line chart which highlights that most campaigns that are successful are launched in th month of May. ![Theater Outcomes vs Launch](https://github.com/flabbychew/kickstarter-analysis/blob/main/Theater_Outacomes_vs_Launch.png?raw=true)
