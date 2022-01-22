@@ -11,4 +11,5 @@
   
   
   **Other Options?**
+  
 This dataset is limited by the source which it is gathering its data from. The data has only been gathered from www.kickstarter.com and no other crowd funding websites have been looked at in order to compare data with and include in analysis. This limits Louise's options for the website she could be looking at to launch her campgain, websites which could have a higher success rate for plays, for her geographic location, for the time of year she wishes to launch her campaign, or even just in general compared to kickstarter. I would reccomend adding this data and then analyzing the website's general success rates for the parameters listed above in order to determine which sites she should launch on, or if it is beneficial to launch on multiple websites at once. 
